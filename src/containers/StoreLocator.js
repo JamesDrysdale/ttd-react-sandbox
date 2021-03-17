@@ -8,7 +8,7 @@ class StoreLocator extends Component {
         return (<Fragment>
                     <Header />
                     <div>
-                        <Button /> <Button />
+                        <Button location="Portland" /> <Button location="Astoria" /> <Button />
                     </div>
                     
                     <Map />
