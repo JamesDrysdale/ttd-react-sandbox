@@ -7,7 +7,10 @@ class StoreLocator extends Component {
     render() {
         return (<Fragment>
                     <Header />
-                    <Button /> <Button />
+                    <div>
+                        <Button /> <Button />
+                    </div>
+                    
                     <Map />
                 </Fragment>);
     }
